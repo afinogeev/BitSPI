@@ -1,0 +1,5 @@
+BitSPI		KEYWORD1
+
+setSpeed	KEYWORD2
+transfer	KEYWORD2
+sendBit 	KEYWORD2
